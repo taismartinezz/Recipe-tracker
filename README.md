@@ -22,7 +22,7 @@ This project was built as part of Northwestern University’s "COMP_SCI 396: Int
 
 ## Tech Stack
 
-# Frontend:
+### Frontend:
 
 - Next.js
 
@@ -32,7 +32,7 @@ This project was built as part of Northwestern University’s "COMP_SCI 396: Int
 
 - Tailwind CSS
 
-# Backend:
+### Backend:
 
 - Node.js
 
@@ -40,7 +40,7 @@ This project was built as part of Northwestern University’s "COMP_SCI 396: Int
 
 ## Running the Project Locally
 
-# Start the GraphQL Server
+### Start the GraphQL Server
 From the server directory:
 
 cd server
@@ -52,7 +52,7 @@ http://localhost:4000/graphql
 
 You can open this URL in the browser or Apollo Sandbox to run queries and mutations.
 
-# Start the Frontend
+### Start the Frontend
 
 From the project root:
 
