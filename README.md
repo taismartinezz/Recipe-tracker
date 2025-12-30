@@ -61,3 +61,11 @@ npm run dev
 
 The application will run at:
 http://localhost:3000
+
+
+
+Author: Tais Martinez
+
+GitHub: https://github.com/taismartinezz
+
+LinkedIn: https://www.linkedin.com/in/taismartinez
